@@ -1,0 +1,74 @@
+/* Custom CSS styles for the application */
+
+/* Main dashboard header */
+.skin-blue .main-header .logo {
+  background-color: #3c8dbc;
+  color: #fff;
+  border-bottom: 0 solid transparent;
+}
+
+/* Sidebar menu */
+.skin-blue .main-sidebar {
+  background-color: #222d32;
+}
+
+/* Active menu item */
+.skin-blue .sidebar-menu > li.active > a {
+  border-left-color: #3c8dbc;
+}
+
+/* Box headers */
+.box.box-primary {
+  border-top-color: #3c8dbc;
+}
+
+.box.box-warning {
+  border-top-color: #f39c12;
+}
+
+.box.box-success {
+  border-top-color: #00a65a;
+}
+
+.box.box-info {
+  border-top-color: #00c0ef;
+}
+
+/* Custom button styles */
+.btn-success {
+  background-color: #00a65a;
+  border-color: #008d4c;
+}
+
+.btn-success:hover {
+  background-color: #008d4c;
+  border-color: #006d3c;
+}
+
+/* Custom tab styles */
+.nav-tabs-custom > .nav-tabs > li.active {
+  border-top-color: #3c8dbc;
+}
+
+/* Custom loading spinner */
+.loading-spinner {
+  color: #3c8dbc;
+  font-size: 24px;
+}
+
+/* Custom plot margins */
+.plot-container {
+  margin: 10px 0;
+}
+
+/* Custom table styles */
+.dataTables_wrapper {
+  margin-top: 10px;
+}
+
+/* Custom network visualization container */
+#network_plot {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: white;
+}
