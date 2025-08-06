@@ -1,0 +1,11 @@
+SampleID,Group,HER2_Status,ER_Status,PR_Status,Grade,Age,Treatment_Response
+Sample1,Control,Negative,Negative,Negative,NA,45,NA
+Sample2,Control,Negative,Negative,Negative,NA,52,NA
+Sample3,Control,Negative,Negative,Negative,NA,48,NA
+Sample4,Control,Negative,Negative,Negative,NA,55,NA
+Sample5,Control,Negative,Negative,Negative,NA,50,NA
+Sample6,Tumor,Positive,Positive,Positive,2,58,Partial
+Sample7,Tumor,Positive,Positive,Positive,2,62,Complete
+Sample8,Tumor,Positive,Positive,Positive,3,60,None
+Sample9,Tumor,Positive,Positive,Positive,3,65,Partial
+Sample10,Tumor,Positive,Positive,Positive,3,59,Complete
